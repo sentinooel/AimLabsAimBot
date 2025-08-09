@@ -1,0 +1,14 @@
+SluttyFemboy made by ftob ;3
+
+-sluttyfemboy for blatant
+-pip install numpy opencv-python mss keyboard
+
+|-aimlabs_res shows your aimlabs resolution (you'll need it if youre playing on stretch res)...
+|- when you run aimlabs_res you'll get your left;top;width and height
+|
+|-  rename sluttyfemboy.py to sluttyfemboy.txt and find monitor = {'left': -8, 'top': -8, 'width': 1936, 'height': 1056}
+|-- then paste your stuff!
+
+-Do not run mouseBlahg it will be hard to close since it moves in a square
+
+-Btw you have to set your circle color to green or change the color from the code itself to your circle color!
